@@ -1,0 +1,69 @@
+body
+{
+    text-align: center;
+}
+#heading{
+    margin-top: 110px;
+    margin-bottom: 5px;
+}
+#underline{
+ border-top: 3px solid aqua ;
+ margin-left: auto;
+ margin-right: auto;
+ height: 4px;
+ width: 80px;
+ margin-bottom: 35px;
+}
+#review
+{
+box-shadow: 0px 0px 20px rgb(0 0 0 / 0.2);
+   margin-left: auto;
+    margin-right:auto ;
+    text-align: center;
+    height: 280px;
+    width: 550px;
+   position: relative;
+    
+}
+#image
+{
+    border-right: 5px solid aqua;
+    border-radius: 50%;
+    position: relative;
+    width: 100px;
+    height: 100px;
+   margin-top: 5px;
+}
+#name
+{
+    margin-top:5px;
+    margin-bottom: 0px;
+}
+#job
+{
+    margin-top: 5px;
+    color: aqua;
+    margin-bottom: 0px;
+}
+#info
+{
+    margin-top: 5px;
+    margin-bottom: 6px;
+}
+#random
+{   background-color:white;
+    color: aqua;
+    margin-top: 5px;
+    border-radius: 5px;
+    border:1px solid aqua
+    
+}
+
+
+#prev,#next
+{
+    background: none;
+    border: none;
+    color: aqua;
+    font-weight:bolder;
+}
